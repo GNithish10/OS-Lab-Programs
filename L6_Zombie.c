@@ -18,7 +18,7 @@ int main()
     {
         for (i=0; i<20; i++)
             printf("I am Child\n");
-            exit(0)
+            exit(0);
     }
     else
     {
