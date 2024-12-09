@@ -12,6 +12,8 @@ int main()
         else if(pid==0)
                 charatatime("output from child\n");
         else
+        {
+                wait(NULL);
                 charatatime("output from parent\n");
         _exit(0);
 }
