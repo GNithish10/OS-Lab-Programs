@@ -15,6 +15,7 @@ int main()
         {
                 wait(NULL);
                 charatatime("output from parent\n");
+        }
         _exit(0);
 }
 static void charatatime(char *str)
