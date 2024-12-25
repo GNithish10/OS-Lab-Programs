@@ -1,3 +1,5 @@
+//Write C programs that illustrate communication between two unrelated processes using named pipe (FlFO file).
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>
