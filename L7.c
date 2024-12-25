@@ -1,3 +1,5 @@
+//Write a C program to make parent wait for child process and print type of termination. If abnormal, print the signal.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
