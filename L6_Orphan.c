@@ -1,6 +1,7 @@
 //Write a C program that illustrates how orphan child processes are created.
 
-#include<stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
 #include <sys/types.h>
 #include <unistd.h>
 
